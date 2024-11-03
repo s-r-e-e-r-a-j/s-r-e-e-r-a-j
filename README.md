@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-#### I'm Sreeraj, and I'm passionate about web development and ethical hacking. I'm also a JavaScript enthusiast, always eager to learn and explore new technologies.
+ I'm Sreeraj, and I'm passionate about web development and ethical hacking. I'm also a JavaScript enthusiast, always eager to learn and explore new technologies.
 
 ## 🚀 About Me
 
@@ -10,19 +10,19 @@
 
 ### Languages:-
 
-#### `JavaScript` , `HTML` , `CSS` , `C` ,` C++` ,` C#` , `Ruby` , `Php` , `Python` , `Bash`
+ `JavaScript` , `HTML` , `CSS` , `C` ,` C++` ,` C#` , `Ruby` , `Php` , `Python` , `Bash`
 
 ### Technologies:-
 
-#### `Node Js` , `Express Js`
+ `Node Js` , `Express Js`
 
 ### Operating Systems:-
 
-#### `Android` , `Windows` , `Linux `, `Kali Linux`
+ `Android` , `Windows` , `Linux `, `Kali Linux`
 
 ## Areas of Interest: 
 
-#### `Web Development` , `Ethical Hacking`
+ `Web Development` , `Ethical Hacking`
 
 ## 📫 How to Reach Me
 
