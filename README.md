@@ -27,12 +27,12 @@
 ## 📫 How to Reach Me
 
 ### Gmail: 
-#### `sreekuttan2156239@gmail.com`
+sreekuttan2156239@gmail.com
 
 ### Instagram:
 
-#### `https://www.instagram.com/s_r_e_e_r_a__j?igsh=MWM1MWlvczVubDY0bA==`
+https://www.instagram.com/s_r_e_e_r_a__j?igsh=MWM1MWlvczVubDY0bA==
 
 ### Facebook:
 
-#### `https://www.facebook.com/share/srsLXuCuAqw6dHg6/?mibextid=qi2Omg`
+https://www.facebook.com/share/srsLXuCuAqw6dHg6/?mibextid=qi2Omg
