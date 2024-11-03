@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-#### 🌱 I’m currently learning more about advanced JavaScript frameworks and cybersecurity practices. 💻 I love building secure, dynamic web applications. 💡 I'm interested in collaborating on projects related to web development and ethical hacking.
+🌱 I’m currently learning more about advanced JavaScript frameworks and cybersecurity practices. 💻 I love building secure, dynamic web applications. 💡 I'm interested in collaborating on projects related to web development and ethical hacking.
 
 ## 💼 Skills
 
