@@ -56,7 +56,6 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-r-e-e-r-a-j&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-e-e-r-a-j&layout=donut-vertical)
- ![Language by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-r-e-e-r-a-j&theme=dark)
  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-r-e-e-r-a-j&theme=dark&utcOffset=8)
 
 ---
