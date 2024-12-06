@@ -63,7 +63,7 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 ---
 
 <div align="center">
-<h3 align="center">🏆 Github Trophy 🏆</h3>
+<h2 align="center">🏆 Github Trophy 🏆</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j" /></a> </p>
 </div>
 
