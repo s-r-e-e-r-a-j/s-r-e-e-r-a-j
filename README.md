@@ -58,6 +58,8 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-r-e-e-r-a-j&show_icons=true&theme=radical)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s-r-e-e-r-a-j&theme=radical&hide_border=false)</br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-e-e-r-a-j&layout=donut-vertical)</br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=s-r-e-e-r-a-j&limit=5&theme=radical&combine_all_yearly_contributions=true)</br>
  ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-r-e-e-r-a-j&theme=dark&utcOffset=8)</br>
 
 
@@ -67,13 +69,11 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=s-r-e-e-r-a-j&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 ---
 <div align="center">
-<h2 align="center">🏆 Github Trophy 🏆</h2>
+<h3 align="center">🏆 Github Trophy 🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j" /></a> </p>
 </div>
 
