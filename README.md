@@ -3,7 +3,8 @@
 I'm **Sreeraj**, a passionate individual interested in web development and ethical hacking. I'm also a **JavaScript** and **Python** enthusiast. I'm always eager to learn, innovate, and explore new technologies.
 
 ---
-
+<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+---
 ## 🚀 About Me
 
 
