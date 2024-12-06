@@ -62,15 +62,16 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ---
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 <div align="center">
 <h2 align="center">🏆 Github Trophy 🏆</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j" /></a> </p>
 </div>
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
