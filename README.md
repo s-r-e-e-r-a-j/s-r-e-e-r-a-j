@@ -69,6 +69,11 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 📫 How to Reach Me
 
 - **Gmail**: [sreekuttan2156239@gmail.com](mailto:sreekuttan2156239@gmail.com)
