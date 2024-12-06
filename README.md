@@ -82,4 +82,4 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=s-r-e-e-r-a-j&icon=2&color=6)](https://visitcount.itsvg.in)
