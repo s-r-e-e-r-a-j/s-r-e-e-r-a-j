@@ -43,7 +43,11 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ---
 
+## 🌟 Profile Summary 🌟
+
  ![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-r-e-e-r-a-j&theme=dark)
+
+ ---
  
 ## 📊 GitHub Stats
  
