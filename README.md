@@ -54,9 +54,10 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
  
 ## 📊 GitHub Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-r-e-e-r-a-j&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-e-e-r-a-j&layout=donut-vertical)
- ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-r-e-e-r-a-j&theme=dark&utcOffset=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-r-e-e-r-a-j&show_icons=true&theme=radical)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=s-r-e-e-r-a-j&theme=radical&hide_border=false)</br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-e-e-r-a-j&layout=donut-vertical)</br>
+ ![Commit stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s-r-e-e-r-a-j&theme=dark&utcOffset=8)</br>
 
 
 ---
