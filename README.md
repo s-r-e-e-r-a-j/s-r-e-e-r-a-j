@@ -79,9 +79,9 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ## 📫 How to Reach Me
 
-- **Gmail**: [sreekuttan2156239@gmail.com](mailto:sreekuttan2156239@gmail.com)
+<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 
-- **Instagram**: [s_r_e_e_r_a__j](https://www.instagram.com/s_r_e_e_r_a__j?igsh=MWM1MWlvczVubDY0bA==)
+<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
 
 
 ---
