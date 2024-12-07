@@ -30,8 +30,6 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 ## 💼 Skills
 
 ### Languages:
-`JavaScript` | `HTML` | `CSS` | `C` | `C++` | `C#` | `Ruby` | `PHP` | `Python` | `Bash`
-
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" style="margin: 5px;">
