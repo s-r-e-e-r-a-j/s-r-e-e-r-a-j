@@ -42,11 +42,16 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;">
-
+  
 </p>
 
+### Databases
 
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;">
+
+</p>
 
 ### Technologies:
 
