@@ -58,16 +58,15 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-r-e-e-r-a-j&show_icons=true&theme=radical)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=s-r-e-e-r-a-j&theme=radical&hide_border=false)</br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-e-e-r-a-j&layout=donut-vertical)</br>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=s-r-e-e-r-a-j&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=s-r-e-e-r-a-j&limit=5&theme=radical&combine_all_yearly_contributions=true)</br>
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=s-r-e-e-r-a-j&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=1000&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ---
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
 ---
