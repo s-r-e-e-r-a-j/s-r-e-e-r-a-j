@@ -112,11 +112,13 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ## 📫 How to Reach Me
 
-<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
+<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" style="margin:5px"/></a> <img width="15" />
 
+<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" style="margin:5px" /></a> <img width="15" />
 
+</p>
 
 ---
 
