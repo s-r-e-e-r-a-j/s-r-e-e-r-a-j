@@ -1,6 +1,3 @@
-
-<a href="https://www.github.com/s-r-e-e-r-a-j" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/s-r-e-e-r-a-j?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![](https://visitcount.itsvg.in/api?id=s-r-e-e-r-a-j&icon=2&color=6)](https://visitcount.itsvg.in)
 # Hi there! 👋
 
