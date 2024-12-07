@@ -49,7 +49,14 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 
 ### Technologies:
-`Node.js` | `Express.js`
+
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" style="margin: 5px;">
+
+</p>
+
 
 ### Operating Systems:
 `Android` | `Windows` | `Linux` | `Kali Linux`
