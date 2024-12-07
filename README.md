@@ -59,7 +59,15 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 
 ### Operating Systems:
-`Android` | `Windows` | `Linux` | `Kali Linux`
+
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge" style="margin: 5px;">
+
+</p>
 
 ---
 
