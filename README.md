@@ -78,8 +78,6 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 ## 🌟 Areas of Interest:
 
-- **Web Development**
-- **Ethical Hacking**
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
 
 <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
@@ -98,7 +96,10 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
   <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">  
 
+  <img src="https://img.shields.io/badge/MySQL%20Programming-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Programming Badge">
+
 </p>
+
 ---
 
 ## 🌟 Profile Summary 🌟
