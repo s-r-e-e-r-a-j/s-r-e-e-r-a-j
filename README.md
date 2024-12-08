@@ -93,7 +93,7 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
   <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
   <img src="https://img.shields.io/badge/Ruby%20Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Programming Badge">
-  <img src="https://img.shields.io/badge/Bash%20Programming-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Programming Badge">
+  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge">
   
   <img src="https://img.shields.io/badge/C++%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Badge">
   <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
