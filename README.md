@@ -50,7 +50,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   
 </p>
 
-### Databases
+### Databases:
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
