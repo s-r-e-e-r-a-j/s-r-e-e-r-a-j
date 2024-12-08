@@ -85,9 +85,9 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 
 <img src="https://img.shields.io/badge/Developing%20Hacking%20Tools%20for%20Legal%20Use-FF5733?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hacking Tools Development Badge">
 
-<img src="https://img.shields.io/badge/HTML%20Programming-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Programming Badge">
-
-  <img src="https://img.shields.io/badge/CSS%20Programming-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Programming Badge">
+<img src="https://img.shields.io/badge/HTML%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Development Badge">
+  <img src="https://img.shields.io/badge/CSS%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Development Badge">
+  
   
 <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
 
@@ -100,7 +100,7 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
   <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">  
 
-  <img src="https://img.shields.io/badge/MySQL%20Programming-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Programming Badge">
+  <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
 
 </p>
 
