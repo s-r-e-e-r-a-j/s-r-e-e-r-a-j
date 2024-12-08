@@ -82,17 +82,21 @@ I'm **Sreeraj**, a passionate individual interested in web development and ethic
 - **Ethical Hacking**
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
 
+<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
+
+<img src="https://img.shields.io/badge/Developing%20Hacking%20Tools%20for%20Legal%20Use-FF5733?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hacking Tools Development Badge">
+
+<img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
+
   <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
   <img src="https://img.shields.io/badge/Ruby%20Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Programming Badge">
   <img src="https://img.shields.io/badge/Bash%20Programming-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Programming Badge">
-  <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
-  <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
-  <img src="https://img.shields.io/badge/Developing%20Hacking%20Tools%20for%20Legal%20Use-FF5733?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hacking Tools Development Badge">
+  
   <img src="https://img.shields.io/badge/C++%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Badge">
+  <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
-  <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
-  <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
+  <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">  
 
 </p>
 ---
