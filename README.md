@@ -25,10 +25,13 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ---
 
 
-## 🎯 My Goals
+## 🎯Goals
 
-- 🌟 My dream is to become a **white hat hacker**.
-- 📚 I am committed to learning and applying ethical hacking practices to become a responsible white hat hacker—using my skills for the greater good while respecting laws and ethics.
+
+- ✨ I aim to enhance my skills in programming, web development, and ethical hacking.
+   
+- 🔍 I strive to expand my knowledge in areas like ethical hacking and penetration testing.  
+
 
 ---
 
