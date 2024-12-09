@@ -21,7 +21,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   
 - 🌱 I love exploring innovative ideas in web development and cybersecurity.  
 
-🌟 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
+- 🌟 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
 
 
