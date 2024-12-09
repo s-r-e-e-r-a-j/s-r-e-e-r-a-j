@@ -20,7 +20,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 💡 I’m interested in creating ethical hacking tools.
 - 🛠️ I’m interested in creating hacking tools for legal use.
-- 🌟 Open to collaborating on projects related to **web development** and **Ethical Hacking**.
+- 🌟 Open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
 ---
 
