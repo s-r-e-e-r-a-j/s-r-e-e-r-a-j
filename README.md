@@ -10,18 +10,18 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 🚀 About Me
 
 
-- ✨ I am passionate about programming. My favorite programming languages are **JavaScript** and **Python**, but I am always eager to explore new languages and technologies.
+
+- ✨ I am passionate about programming. My favourite programming languages are **JavaScript** and **Python**, but I am always eager to explore new languages and technologies.  
+
+- 🌟 I enjoy creating projects related to programming and web development.
+   
+- 💡 I focus on building ethical hacking tools and other utilities for legal and controlled use.
   
-  
-- 🌟 I'm interested in creating programming-related projects.  
+- 🌱 I love exploring innovative ideas in web development and cybersecurity.  
+
+🌟 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
 
-- 🌱 I’m interested in creating web development projects.
-     
-
-- 💡 I’m interested in creating ethical hacking tools.
-- 🛠️ I’m interested in creating hacking tools for legal use.
-- 🌟 Open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
 ---
 
