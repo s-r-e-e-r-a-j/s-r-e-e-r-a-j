@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=s-r-e-e-r-a-j&icon=2&color=6)](https://visitcount.itsvg.in)
 # Hi there! 👋
 
-I'm Sreeraj, a passionate individual interested in programming, web development, and ethical hacking. As a programmer, I am always eager to learn, innovate, and explore new technologies.
+I'm Sreeraj, a passionate individual interested in **programming**, **web development**, and **ethical hacking**. As a programmer, I am always eager to learn, innovate, and explore new technologies.
 
 <div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
 
@@ -10,7 +10,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 🚀 About Me
 
 
-- ✨ I am passionate about **programming**.My favourite programming language is **JavaScript** and **Python**, but I am always eager to explore new languages and technologies.
+- ✨ I am passionate about programming. My favorite programming languages are **JavaScript** and **Python**, but I am always eager to explore new languages and technologies.
   
   
 - 🌟 I'm interested in creating programming-related projects.  
