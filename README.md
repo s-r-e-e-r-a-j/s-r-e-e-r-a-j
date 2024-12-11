@@ -83,7 +83,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
 
-<img src="https://img.shields.io/badge/Developing%20Hacking%20Tools%20for%20Legal%20Use-FF5733?style=for-the-badge&logo=codeforces&logoColor=white" alt="Hacking Tools Development Badge">
 
 <img src="https://img.shields.io/badge/HTML%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Development Badge">
   <img src="https://img.shields.io/badge/CSS%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Development Badge">
