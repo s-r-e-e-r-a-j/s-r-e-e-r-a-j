@@ -16,6 +16,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🚀 I am constantly developing and improving my skills in **programming**, **ethical hacking**, and **web development**.  
 
+- 🔧 Skilled in Bash scripting to automate tasks and create tools for ethical hacking and security testing.
 
 - 🔍 I have an interest in creating ethical hacking tools and resources for legal and controlled use 
 
