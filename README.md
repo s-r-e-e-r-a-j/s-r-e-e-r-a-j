@@ -5,7 +5,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <div align="center"><img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9dd23ea1-97bd-45d2-b16d-1a07bc58c7ec"></img></div>
 
-
 ---
 
 ## 🚀 About Me
