@@ -3,7 +3,7 @@
 
 I'm Sreeraj, a passionate individual interested in programming, web development, and ethical hacking. As a programmer, I am always eager to learn, innovate, and explore new technologies.
 
-<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+<div align="center"><img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9dd23ea1-97bd-45d2-b16d-1a07bc58c7ec"></img></div>
 
 ---
 
