@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=s-r-e-e-r-a-j&icon=2&color=6)](https://visitcount.itsvg.in)
+
 # Hi there! 👋
 
 I'm Sreeraj, a passionate individual interested in programming, web development, and ethical hacking. As a programmer, I am always eager to learn, innovate, and explore new technologies.
