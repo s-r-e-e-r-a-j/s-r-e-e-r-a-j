@@ -90,8 +90,9 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="https://github.com/user-attachments/assets/cd27b52f-165b-4bb0-852a-e23785026848" alt="Cisco Badge" style="margin: 5px; width=200px;">
-  <img src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge" style="margin: 5px; width=200px">
+  <img src="https://github.com/user-attachments/assets/cd27b52f-165b-4bb0-852a-e23785026848" alt="Cisco Badge" style="margin: 5px;">
+
+  <img src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge2" style="margin:5px;">
 
 </p>
 
