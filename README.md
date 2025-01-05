@@ -29,6 +29,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🏅 [Cisco Python Essentials1](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
 - 🏅[Cisco Python Essentials2](https://github.com/user-attachments/assets/946e0ab0-d0b1-47c5-9c26-cc0c057d373e)
+- 🏅[Cisco JavaScript Essentials1](https://github.com/user-attachments/assets/c61c728a-83a8-4094-b854-6c99a91dcc9e)
 
 
 
@@ -98,7 +99,11 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   <img weight=200 height=200 src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge" style="margin: 5px;">
   </a>
 
+<a href="https://www.credly.com/badges/2c6e74f5-e8d6-4503-8030-bc23c2bf6949/public_url">
 
+<img weight=200 height=200 src="https://github.com/user-attachments/assets/88ff9be3-9468-41d2-8fe9-184d972b707a" alt="Cisco Badge" style="margin: 5px;">
+
+</a>
 
 </p>
 
