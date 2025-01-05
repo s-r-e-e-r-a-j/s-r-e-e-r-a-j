@@ -28,6 +28,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 📜 Certifications
 
 - 🏅 [Cisco Python Essentials1](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
+- 🏅[Cisco Python Essentials2](https://github.com/user-attachments/assets/946e0ab0-d0b1-47c5-9c26-cc0c057d373e)
+
 
 
 ---
@@ -89,7 +91,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <img src="https://github.com/user-attachments/assets/cd27b52f-165b-4bb0-852a-e23785026848" alt="Cisco Badge" style="margin: 5px;">
-  
+  <img src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge" style="margin:5px;">
+
 </p>
 
 ---
