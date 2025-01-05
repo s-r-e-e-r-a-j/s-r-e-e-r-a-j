@@ -25,6 +25,11 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
+## 📜 Certifications
+
+- 🏅 [Cisco Python Essentials](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
+
+
 ## 💼 Skills
 
 ### Languages:
@@ -76,6 +81,14 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 </p>
 
 ---
+
+## 🏆 Achievements and Badges
+
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+  <img src="https://github.com/user-attachments/assets/10e741e6-4ada-4817-abb4-27d04163a1b8" alt="Cisco Badge" style="margin: 5px;">
+  
+</p>
 
 ## 🌟 Areas of Interest:
 
