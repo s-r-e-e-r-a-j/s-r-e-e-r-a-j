@@ -27,7 +27,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ## 📜 Certifications
 
-- 🏅 [Cisco Python Essentials](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
+- 🏅 [Cisco Python Essentials1](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
 
 
 ---
