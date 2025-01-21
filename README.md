@@ -98,12 +98,12 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <img weight=200 height=200 src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" alt="Cisco Badge" style="margin: 5px;">
 </a>
 
-<a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
-  <img weight=200 height=200 src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge" style="margin: 5px;">
-</a>
-
 <a href="https://www.credly.com/badges/932a0578-0f9c-4d96-8ab3-05f0b20f7e9d/public_url">
   <img weight=200 height=200 src="https://github.com/user-attachments/assets/b688758e-a6cf-462e-bcb6-ec4ec5422a52" alt="Cisco Badge" style="margin: 5px;">
+</a>
+
+<a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
+  <img weight=200 height=200 src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge" style="margin: 5px;">
 </a>
 
   <a href="https://www.credly.com/badges/06c8a568-55dd-45b2-99e5-3686917ac96e/public_url">
