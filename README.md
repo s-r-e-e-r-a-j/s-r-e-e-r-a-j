@@ -29,6 +29,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🏅 [Cisco EthicalHacker](https://github.com/user-attachments/assets/379308d0-d169-4c93-86c0-25d7b49530b8)
 - 🏅 [Cisco Linux Essentials](https://github.com/user-attachments/assets/8f73b05b-2db3-40a5-8b68-e36048b469b3)
+- 🏅 [Cisco Introduction to Cybersecurity](https://github.com/user-attachments/assets/0ae3f345-25be-42a0-ab77-72bc7bdc552f)
 - 🏅 [Cisco CyberThreatManagement](https://github.com/user-attachments/assets/22599535-13ba-41fe-ba6a-22b8f9885022)
 - 🏅 [Cisco EndpointSecurity](https://github.com/user-attachments/assets/8b5d42d3-c435-46b6-8813-ef3a939ae6f4)
 - 🏅 [Cisco Python Essentials1](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
@@ -103,6 +104,10 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <a href="https://www.credly.com/badges/932a0578-0f9c-4d96-8ab3-05f0b20f7e9d/public_url">
   <img weight=200 height=200 src="https://github.com/user-attachments/assets/b688758e-a6cf-462e-bcb6-ec4ec5422a52" alt="Cisco Badge" style="margin: 5px;">
 </a>
+
+<a href="https://www.credly.com/badges/35c6e908-652d-4d0a-a0a9-37af533a5c3e/public_url">
+   <img weight=200 height=200 src="https://github.com/user-attachments/assets/6e4d37b8-5086-4405-9dc0-4703ecab6627" alt="Cisco Badge" style="margin: 5px;">
+
 
 <a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
   <img weight=200 height=200 src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge" style="margin: 5px;">
