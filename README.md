@@ -29,6 +29,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🏅 [Cisco EthicalHacker](https://github.com/user-attachments/assets/379308d0-d169-4c93-86c0-25d7b49530b8)
 - 🏅 [Cisco Linux Essentials](https://github.com/user-attachments/assets/8f73b05b-2db3-40a5-8b68-e36048b469b3)
+- 🏅 [Cisco CyberThreatManagement](https://github.com/user-attachments/assets/22599535-13ba-41fe-ba6a-22b8f9885022)
 - 🏅 [Cisco Python Essentials1](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
 - 🏅 [Cisco Python Essentials2](https://github.com/user-attachments/assets/946e0ab0-d0b1-47c5-9c26-cc0c057d373e)
 - 🏅 [Cisco JavaScript Essentials1](https://github.com/user-attachments/assets/c61c728a-83a8-4094-b854-6c99a91dcc9e)
