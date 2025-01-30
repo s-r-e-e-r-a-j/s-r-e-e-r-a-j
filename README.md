@@ -28,16 +28,49 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 🎓 Courses & Training
 
 - 🏅 [Cisco EthicalHacker (Course Completion)](https://github.com/user-attachments/assets/379308d0-d169-4c93-86c0-25d7b49530b8)
+
+
+  
 - 🏅 [Cisco Linux Essentials (Course Completion)](https://github.com/user-attachments/assets/8f73b05b-2db3-40a5-8b68-e36048b469b3)
+
+
+  
 - 🏅 [Cisco Introduction to Cybersecurity (Course Completion)](https://github.com/user-attachments/assets/0ae3f345-25be-42a0-ab77-72bc7bdc552f)
+
+
+  
 - 🏅 [Cisco CyberThreatManagement (Course Completion)](https://github.com/user-attachments/assets/22599535-13ba-41fe-ba6a-22b8f9885022)
+
+
+  
 - 🏅 [Cisco EndpointSecurity (Course Completion)](https://github.com/user-attachments/assets/8b5d42d3-c435-46b6-8813-ef3a939ae6f4)
+
+
+  
 - 🏅 [Cisco NetworkDefense (Course Completion)](https://github.com/user-attachments/assets/be6efcd9-0a46-4813-b11d-032dfed7866f)
+
+
+  
 - 🏅 [Cisco ComputerHardwareBasics (Course Completion)](https://github.com/user-attachments/assets/f9ddad12-7c4a-4e70-9de1-f2768e66a245)
+
+
+  
 - 🏅 [Cisco OperatingSystemsBasics (Course Completion)](https://github.com/user-attachments/assets/d4ee0e53-0648-42b9-86b9-cbe96eb3187a)
+
+
+  
 - 🏅 [Cisco Python Essentials1 (Course Completion)](https://github.com/user-attachments/assets/c530314c-20d7-4502-87f6-45f25c63231a)
+
+
+  
 - 🏅 [Cisco Python Essentials2 (Course Completion)](https://github.com/user-attachments/assets/946e0ab0-d0b1-47c5-9c26-cc0c057d373e)
+
+
+  
 - 🏅 [Cisco JavaScript Essentials1 (course Completion)](https://github.com/user-attachments/assets/c61c728a-83a8-4094-b854-6c99a91dcc9e)
+
+
+  
 - 🏅 [Cisco JavaScript Essentials2 (Course Completion)](https://github.com/user-attachments/assets/51595960-2d74-485f-ae59-8b6fa3546b8c)
 
 
