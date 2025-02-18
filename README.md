@@ -20,6 +20,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🔍 I have an interest in creating ethical hacking tools and resources for legal and controlled use 
 
+- ⚡ I am also interested in Arduino and ESP32 programming, exploring embedded systems and IoT development.
+
 - 🌟 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
 
