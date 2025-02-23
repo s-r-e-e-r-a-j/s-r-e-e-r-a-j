@@ -58,6 +58,12 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 - 🎖️ [Cisco EndpointSecurity (Certificate)](https://github.com/user-attachments/assets/8b5d42d3-c435-46b6-8813-ef3a939ae6f4)
 
 
+  
+
+
+- 🎖️ [Cisco NetworkingBasics (Certificate)](https://github.com/user-attachments/assets/c9394df4-aae9-4fb5-a60f-994efe69b3b6)
+
+
 
 
   
@@ -178,6 +184,11 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <a href="https://www.credly.com/badges/180f652f-3f80-4025-992c-f30df8c1e1d1/public_url">
 <img weight=200 height=200 src="https://github.com/user-attachments/assets/9d78a510-05b0-47cb-90ac-aad4d69d3b97" alt="Cisco Badge" style="margin: 5px;">
 </a>
+
+<a href="https://www.credly.com/badges/e067736b-9dab-4f7a-af37-2be61a67b626/public_url">
+<img weight=200 height=200 src="https://github.com/user-attachments/assets/19bb03a2-6c00-4d51-a29c-53295d08e283" alt="Cisco Badge" style="margin: 5px;">
+</a>
+
 
 <a href="https://www.credly.com/badges/390dcbec-80a4-495f-a1cb-d455404828ce/public_url">
 <img weight=200 height=200 src="https://github.com/user-attachments/assets/7be14df7-8b88-4954-b5ca-a840cca4c678" alt="Cisco Badge" style="margin: 5px;">
