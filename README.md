@@ -29,7 +29,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
-## 📜 Certifications
+## 📜 Certificates
 
 - 🎖️ [Cisco EthicalHacker (Certificate)](https://github.com/user-attachments/assets/379308d0-d169-4c93-86c0-25d7b49530b8)
 
