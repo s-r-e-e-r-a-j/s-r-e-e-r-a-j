@@ -119,7 +119,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 
 
-- 🎖️ [Cisco NetworkingDevicesandBasicConfiguration (Certificate)](https://github.com/user-attachments/assets/3f77760c-9270-4441-bff7-5cd1a352733e)
+- 🎖️ [Cisco NetworkingDevicesAndInitialConfiguration (Certificate)](https://github.com/user-attachments/assets/3f77760c-9270-4441-bff7-5cd1a352733e)
 
 
 
