@@ -45,9 +45,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge" style="margin: 5px;">
 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge" alt="Go Badge" style="margin: 5px;">
-<img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Gopher" width="50" style="margin-left: 5px;">
-
+  <img src="https://img.shields.io/static/v1?label=Go&message=&color=00ADD8&style=for-the-badge&logoWidth=20&logo=https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="GO Badge" style="margin: 5px;">
+  
   
 </p>
 
