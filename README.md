@@ -44,7 +44,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" style="margin: 5px;">  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtUlEQVR42pXTT0iUURQG8N85cxlmZRSBWmlBLlKhIIf4C6Ch7R+gI4giCoKuXGsnCQkoyhQiQakHFxyypQYKCiIoxFGMIJh7VLLtscde28Y94Eud7n3nO+9zzv3vOYBn/DwbIuTdYFllp52OVekST/+IC4/+vHdfP8ceXGaejMB1coOEK6y5FYdJHKHd3cM4sZpVzuhPuG9niWouhOKmPR8MD7PhrJcKMopRYsVAOE0fgUxy/ZqpbysnJeRGU5UZ5m+2RjqGpl4DDvTbsj5TqH8KhOdZ7A35nwih3QKvcsqE1edFsJv72Fg9B26uhPAIM6Wv2ZulVLx5PqFrTPi2X5ydLr6F7Q0O2/1e+UuAmvcOHnqBVm6ur3XNi9HDrhLgx1+uZWt79p/4gCJYRxRxVNaZT57tfbGeTdswCsChW5VzEdLOyvxACghx28PygaIuefBZwHcAmhCsJgK5RmzAPoUNB6ERL7jS7MroHtxMW9mtvdpMh7LvdAmh8b0Xj0BsUjG04xNYkAAAAASUVORK5CYII=" alt="Go Badge" style="margin: 5px;">
   
 </p>
 
