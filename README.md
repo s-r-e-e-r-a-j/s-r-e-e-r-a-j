@@ -44,10 +44,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge" style="margin: 5px;">
-
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" style="margin: 5px;">
 <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher.png" alt="Go Gopher" width="20" style="margin-left: 5px;">
-
   
 </p>
 
@@ -168,14 +166,21 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
 
   <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
+  
   <img src="https://img.shields.io/badge/Ruby%20Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Programming Badge">
+  
   <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge">
   
   <img src="https://img.shields.io/badge/C++%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Badge">
+  
   <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
+  
   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
-  <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">  
-
+  
+  <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
+  
+  <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge" style="margin: 5px;">
+  
   <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
 
 
