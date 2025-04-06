@@ -101,7 +101,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <a href="https://www.credly.com/badges/35c6e908-652d-4d0a-a0a9-37af533a5c3e/public_url">
    <img weight=200 height=200 src="https://github.com/user-attachments/assets/6e4d37b8-5086-4405-9dc0-4703ecab6627" alt="Cisco Badge" style="margin: 5px;">
-
+</a>
 
 <a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
   <img weight=200 height=200 src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge" style="margin: 5px;">
