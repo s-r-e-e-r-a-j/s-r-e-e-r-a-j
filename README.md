@@ -83,9 +83,12 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
-## Certificates
-- [Fortinet Certified Fundamentals in Cybersecurity](https://github.com/user-attachments/assets/11717e97-f70e-44e9-a994-580faf047798)
-- [Fortinet Certified Associate in Cybersecurity](https://github.com/user-attachments/assets/844bde84-7605-475a-810c-6f7a76b35a7e)
+## Certifications
+- [Fortinet Certified Fundamentals (FCF) in Cybersecurity](https://github.com/user-attachments/assets/11717e97-f70e-44e9-a994-580faf047798)
+  *Issued by Fortinet | Valid through: 30-04-2027*
+  
+- [Fortinet Certified Associate (FCA) in Cybersecurity](https://github.com/user-attachments/assets/844bde84-7605-475a-810c-6f7a76b35a7e)
+  *Issued by Fortinet | Valid through: 1-05-2027*
 
 
 ## 🏆 Achievements and Badges
