@@ -90,9 +90,9 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 **Issued by:** Fortinet  
 **Valid Through:** April 30, 2027
 
-[Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
+[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
 
-[View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
+[📄 View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
 
 ---
 
@@ -101,9 +101,9 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 **Issued by:** Fortinet  
 **Valid Through:** May 1, 2027
 
-[Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
+[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
 
-[View Certificate](https://github.com/user-attachments/assets/3dddfbd9-67a9-446f-811c-8f7aefb15d7c)
+[📄 View Certificate](https://github.com/user-attachments/assets/3dddfbd9-67a9-446f-811c-8f7aefb15d7c)
 
 ---
 
