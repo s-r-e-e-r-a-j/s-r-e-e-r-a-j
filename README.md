@@ -86,15 +86,20 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 🛡️ Certifications
 
 ### Fortinet Certified Fundamentals (FCF) in Cybersecurity  
-Issued by Fortinet | Valid through: April 30, 2027  
+
+Issued by Fortinet | Valid through: April 30, 2027 
+
 [Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
 
 ---
 
 ### Fortinet Certified Associate (FCA) in Cybersecurity  
+
 Issued by Fortinet | Valid through: May 1, 2027  
+
 [Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
 
+---
 
 ## 🏆 Achievements and Badges
 
