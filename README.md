@@ -91,6 +91,8 @@ Issued by Fortinet | Valid through: April 30, 2027
 
 [Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
 
+[View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
+
 ---
 
 ### Fortinet Certified Associate (FCA) in Cybersecurity  
@@ -98,6 +100,8 @@ Issued by Fortinet | Valid through: April 30, 2027
 Issued by Fortinet | Valid through: May 1, 2027  
 
 [Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
+
+[View Certificate](https://github.com/user-attachments/assets/3dddfbd9-67a9-446f-811c-8f7aefb15d7c)
 
 ---
 
