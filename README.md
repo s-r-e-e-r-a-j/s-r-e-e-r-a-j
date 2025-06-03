@@ -112,6 +112,13 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 [📄 View Certificate](https://github.com/user-attachments/assets/3d650ea4-5fa8-4a78-959c-c483de08a179)
 
+### Neo4j Certified Professional
+
+**Issued by:** Neo4j
+**Issued Date:** June 3, 2025
+
+[✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
+
 ---
 
 ## 🏆 Achievements and Badges
