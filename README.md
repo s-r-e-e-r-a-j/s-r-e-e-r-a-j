@@ -107,8 +107,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ### Introduction to Critical Infrastructure Protection (ICIP)
 
-**Issued by:** OPSWAT
-
+**Issued by:** OPSWAT  
 **Valid Through:** June 3, 2026
 
 [📄 View Certificate](https://github.com/user-attachments/assets/3d650ea4-5fa8-4a78-959c-c483de08a179)
