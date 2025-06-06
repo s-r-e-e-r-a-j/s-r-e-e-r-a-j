@@ -58,6 +58,9 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 
+
+<img src="https://img.shields.io/badge/NEO4J-white?style=for-the-badge&logo=neo4j&logoColor=black" alt="Neo4j Badge">
+
 </p>
 
 ### Technologies:
