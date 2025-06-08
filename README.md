@@ -10,7 +10,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ## 🚀 About Me
 
 
-- ✨ I am passionate about programming. My favourite programming languages are **JavaScript** and **Python**, but I am always eager to explore new languages and technologies.  
+- ✨ I am passionate about **programming**. My favourite programming languages are **JavaScript** and **Python**, but I also have experience with **other languages** and am always eager to explore new technologies.
 
 - 🌟 I enjoy creating innovative projects in **programming**, **web development**, and **ethical hacking**.  
 
