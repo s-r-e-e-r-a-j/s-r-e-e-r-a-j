@@ -22,7 +22,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - ⚡ Familiar with **Arduino and ESP32 programming**, with a growing interest in **embedded systems and IoT development**
 
-- 💻 Experienced in working with **Linux-based systems** for **development**, **automation**, and **ethical hacking**, with strong proficiency in **terminal-based operations** and **scripting**.
+- 💻 Familiar with **Linux-based systems** for **development**, **automation**, and **ethical hacking**, with practical skills in terminal use and scripting.
   
 - 🌟 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
 
