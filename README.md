@@ -20,7 +20,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills.
   
-- 🔍 I have an interest in creating ethical hacking tools and resources for legal and controlled use 
+- 🔍 Interested in creating ethical hacking tools and resources for controlled and responsible use.
 
 - ⚡ Familiar with **Arduino and ESP32 programming**, with a growing interest in **embedded systems and IoT development**
 
