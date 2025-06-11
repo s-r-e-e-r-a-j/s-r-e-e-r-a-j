@@ -237,6 +237,10 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <img src="https://img.shields.io/badge/POSTGRESQL%20DATABASE%20MANAGEMENT-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database Management Badge">
 
+
+<img src="https://img.shields.io/badge/NEO4J%20DATABASE%20MANAGEMENT-009C8C?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Database Management Badge">
+
+
 </p>
 
 ---
