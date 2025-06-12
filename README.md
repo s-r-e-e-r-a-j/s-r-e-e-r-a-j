@@ -88,7 +88,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
-## 🛡️ Certifications
+## 📜 Certifications
 
 ### Fortinet Certified Fundamentals (FCF) in Cybersecurity  
 
