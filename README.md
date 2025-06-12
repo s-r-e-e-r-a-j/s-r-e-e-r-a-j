@@ -230,7 +230,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
   
   <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
   
-  <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge">
   
   <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
 
