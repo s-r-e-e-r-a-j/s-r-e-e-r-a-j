@@ -54,13 +54,13 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 
 
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" style="margin: 5px;">
+<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 
 
-<img src="https://img.shields.io/badge/NEO4J-white?style=for-the-badge&logo=neo4j&logoColor=black" alt="Neo4j Badge" style="margin: 5px;">
+<img src="https://img.shields.io/badge/NEO4J-white?style=for-the-badge&logo=neo4j&logoColor=black" alt="Neo4j Badge">
 
 </p>
 
@@ -68,8 +68,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
 
 </p>
 
@@ -78,10 +78,10 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" style="margin: 5px;">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge" style="margin: 5px;">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge">
 
 </p>
 
