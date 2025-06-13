@@ -279,7 +279,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center">
 
-<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> 
+<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
 <a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"></a> 
 
