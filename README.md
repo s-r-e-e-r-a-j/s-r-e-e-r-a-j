@@ -52,7 +52,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ### Databases:
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 
@@ -66,7 +66,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ### Technologies:
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p align="center">
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
@@ -76,7 +76,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ### Operating Systems:
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p align="center">
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge">
@@ -131,7 +131,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ## 🏆 Achievements and Badges
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p align="center">
 
 <a href="https://www.credly.com/badges/17227ac4-a1b6-4f13-bbca-91243b38d5ef/public_url">
 <img width="200" height="200" src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" alt="Cisco Badge">
@@ -203,7 +203,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ## 🌟 Areas of Interest:
 
-<p style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p>
 
 <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
@@ -278,7 +278,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ## 📫 How to Reach Me
 
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<p align="center">
 
 <a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> 
 
