@@ -271,7 +271,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ---
 <div align="center">
 <h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j"></a> </p>
 </div>
 
 ---
@@ -280,11 +280,11 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" style="margin:5px;"/></a> 
+<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"></a> 
 
-<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" style="margin:5px;" /></a> 
+<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209"></a> 
 
-<a href="https://www.linkedin.com/in/sreeraj-s-kurup"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0077B5" style="margin:5px;" />
+<a href="https://www.linkedin.com/in/sreeraj-s-kurup"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0077B5">
 </a>
 
 </p>
