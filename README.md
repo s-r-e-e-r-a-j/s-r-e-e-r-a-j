@@ -116,7 +116,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 **Issued by:** OPSWAT  
 **Valid Through:** June 3, 2026
 
-[📄 View Certificate](https://github.com/user-attachments/assets/f57d79de-7935-4330-9e26-455fa3886dde)
+[📄 View Certificate](https://github.com/user-attachments/assets/6add3100-7304-42ff-b315-4a4a8236c448)
+
 
 ---
 
