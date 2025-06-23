@@ -132,11 +132,9 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle Cloud Infrastructure 2025 Certified AI Foundation Associate
 
 **Issued by:** Oracle     
-**Issued Date:** June 23, 2025
+**Valid Through:** June 23, 2027
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956)
-
-[📄 View Certificate](https://github.com/user-attachments/assets/514f6947-b0ee-4944-807c-9d0f7da6d0c1)
 
 ---
 
