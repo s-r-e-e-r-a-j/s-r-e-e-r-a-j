@@ -138,6 +138,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 [📄 View Certificate](https://github.com/user-attachments/assets/514f6947-b0ee-4944-807c-9d0f7da6d0c1)
 
+---
 
 ## 🏆 Achievements and Badges
 
