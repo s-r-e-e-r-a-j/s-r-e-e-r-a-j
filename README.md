@@ -147,6 +147,15 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
+### Oracle Data Platform 2025 Certified Foundations Associate
+
+**Issued by:** Oracle   
+**Valid Through:** June 26, 2027
+
+[✅ Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44)
+
+---
+
 ## 🏆 Achievements and Badges
 
 <p align="center">
