@@ -156,6 +156,15 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
+### Oracle Fusion AI Agent Studio Foundations Associate - Rel 1
+
+**Issued by:** Oracle    
+**Valid Through:** June 29, 2027
+
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7)
+
+---
+
 ## 🏆 Achievements and Badges
 
 <p align="center">
