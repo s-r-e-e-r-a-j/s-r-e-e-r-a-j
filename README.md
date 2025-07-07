@@ -96,6 +96,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
+---
+
 ### MySQL Implementation Certified Associate
 
 **Issued by:** Oracle   
