@@ -89,33 +89,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ## 📜 Certifications
 
-### Oracle APEX Cloud Certified Developer Professional
-
-**Issued by:** Oracle   
-**Issued Date:** July 7, 2025
-
-[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
-
----
-
-### MySQL Implementation Certified Associate
-
-**Issued by:** Oracle   
-**Issued Date:** July 1, 2025
-
-[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
-
----
-
-### Neo4j Certified Professional
-
-**Issued by:** Neo4j  
-**Issued Date:** June 3, 2025
-
-[✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
-
----
-
 ### Fortinet Certified Fundamentals (FCF) in Cybersecurity  
 
 **Issued by:** Fortinet  
@@ -144,6 +117,33 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 **Valid Through:** June 3, 2026
 
 [📄 View Certificate](https://github.com/user-attachments/assets/6add3100-7304-42ff-b315-4a4a8236c448)
+
+---
+
+### Neo4j Certified Professional
+
+**Issued by:** Neo4j  
+**Issued Date:** June 3, 2025
+
+[✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
+
+---
+
+### MySQL Implementation Certified Associate
+
+**Issued by:** Oracle   
+**Issued Date:** July 1, 2025
+
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
+
+---
+
+### Oracle APEX Cloud Certified Developer Professional
+
+**Issued by:** Oracle   
+**Issued Date:** July 7, 2025
+
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
 ---
 
