@@ -138,6 +138,15 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 ---
 
+### MySQL HeatWave Implementation Certified Associate Rel 1
+
+**Issued by:** Oracle  
+**Issued Date:** July 18, 2025
+
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
+
+---
+
 ### Oracle APEX Cloud Certified Developer Professional
 
 **Issued by:** Oracle   
