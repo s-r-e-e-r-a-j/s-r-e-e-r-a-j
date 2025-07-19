@@ -135,7 +135,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### MySQL Implementation Certified Associate
 
 **Issued by:** Oracle   
-**Issued Date:** July 1, 2025
+**Issued Date:** July 1, 2025  
+**Credential ID:** 0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F    
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
 
@@ -144,7 +145,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### MySQL HeatWave Implementation Certified Associate Rel 1
 
 **Issued by:** Oracle  
-**Issued Date:** July 18, 2025
+**Issued Date:** July 18, 2025   
+**Credential ID:** 3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B   
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
 
@@ -153,7 +155,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle APEX Cloud Certified Developer Professional
 
 **Issued by:** Oracle   
-**Issued Date:** July 7, 2025
+**Issued Date:** July 7, 2025    
+**Credential ID:** 08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100  
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
@@ -162,7 +165,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
 **Issued by:** Oracle     
-**Valid Through:** June 23, 2027
+**Valid Through:** June 23, 2027    
+**Credential ID:** 86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956  
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956)
 
@@ -171,7 +175,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle Cloud Infrastructure 2025 Certified Foundations Associate
 
 **Issued by:** Oracle    
-**Valid Through:** June 24, 2027
+**Valid Through:** June 24, 2027    
+**Credential ID:** A33B2165CD9DB3414BE3F04C3A5654397A5347BCB5302119787C814645C43973
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A33B2165CD9DB3414BE3F04C3A5654397A5347BCB5302119787C814645C43973)
 
@@ -180,7 +185,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle Data Platform 2025 Certified Foundations Associate
 
 **Issued by:** Oracle   
-**Valid Through:** June 26, 2027
+**Valid Through:** June 26, 2027   
+**Credential ID:** 7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44
 
 [✅ Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44)
 
@@ -189,7 +195,8 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 ### Oracle Fusion AI Agent Studio Foundations Associate - Rel 1
 
 **Issued by:** Oracle    
-**Issued Date:** June 29, 2025
+**Issued Date:** June 29, 2025   
+**Credential ID:** 35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7)
 
