@@ -93,7 +93,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Fortinet  
 **Valid Through:** April 30, 2027     
-**Credential ID:** 1189567582SS  
 
 [✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
 
@@ -105,7 +104,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Fortinet  
 **Valid Through:** May 1, 2027    
-**Credential ID:** 9841063462SS  
 
 [✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
 
@@ -117,7 +115,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** OPSWAT  
 **Valid Through:** June 3, 2026   
-**Credential ID:** GJtDpK0Uhg 
 
 [📄 View Certificate](https://github.com/user-attachments/assets/6add3100-7304-42ff-b315-4a4a8236c448)
 
@@ -127,7 +124,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Neo4j  
 **Issued Date:** June 3, 2025    
-**Credential ID:** 33ae928c-6851-4e9d-a78b-704d4d84cea0   
 
 [✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
 
@@ -137,7 +133,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle   
 **Issued Date:** July 1, 2025  
-**Credential ID:** 0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F    
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
 
@@ -147,7 +142,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle  
 **Issued Date:** July 18, 2025   
-**Credential ID:** 3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B   
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
 
@@ -157,7 +151,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle   
 **Issued Date:** July 7, 2025    
-**Credential ID:** 08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100  
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
@@ -167,7 +160,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle     
 **Valid Through:** June 23, 2027    
-**Credential ID:** 86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956  
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956)
 
@@ -177,7 +169,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle    
 **Valid Through:** June 24, 2027    
-**Credential ID:** A33B2165CD9DB3414BE3F04C3A5654397A5347BCB5302119787C814645C43973
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A33B2165CD9DB3414BE3F04C3A5654397A5347BCB5302119787C814645C43973)
 
@@ -187,7 +178,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle   
 **Valid Through:** June 26, 2027   
-**Credential ID:** 7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44
 
 [✅ Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44)
 
@@ -197,7 +187,6 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 **Issued by:** Oracle    
 **Issued Date:** June 29, 2025   
-**Credential ID:** 35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7
 
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7)
 
