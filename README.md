@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I’m Sreeraj, an aspiring ethical hacker and red team professional and passionate programmer with experience in JavaScript, Python, and several other languages. I’m always excited to learn new technologies and try new things. My interests span web development, ethical hacking, and embedded systems.
+I’m **Sreeraj**, an **aspiring ethical hacker and red team professional** and **passionate programmer** with experience in JavaScript, Python, and several other languages. I’m always excited to learn new technologies and try new things. My interests span **web development**, **ethical hacking**, and **embedded systems**.
 
 <p align="center"><img alt="Coding" width="400" src="https://github.com/user-attachments/assets/9dd23ea1-97bd-45d2-b16d-1a07bc58c7ec"></p>
 
@@ -18,7 +18,7 @@ I’m Sreeraj, an aspiring ethical hacker and red team professional and passiona
 
 - 🔧 I have intermediate-level skills in Bash scripting to automate tasks and create tools for ethical hacking and security testing.
 
-- 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills.I am also actively learning **Red Teaming**, including adversary simulation, stealth operations, and advanced offensive tactics.
+- 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills. I am also actively learning **Red Teaming**, including adversary simulation, stealth operations, and advanced offensive tactics.
   
 - 🔍 Interested in creating ethical hacking tools and resources for controlled and responsible use.
 
