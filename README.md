@@ -18,7 +18,7 @@ I'm Sreeraj, a passionate individual interested in programming, web development,
 
 - 🔧 I have intermediate-level skills in Bash scripting to automate tasks and create tools for ethical hacking and security testing.
 
-- 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills.
+- 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills.I am also actively learning Red Teaming, including adversary simulation, stealth operations, and advanced offensive tactics.
   
 - 🔍 Interested in creating ethical hacking tools and resources for controlled and responsible use.
 
