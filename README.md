@@ -117,38 +117,20 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 *Issued by: Oracle* (Issued: July 7, 2025)    
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
-### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-
-**Issued by:** Oracle     
-**Valid Through:** June 23, 2027    
-
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**   
+*Issued by: Oracle* (Valid Through: June 23, 2027)       
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=86CC79407C1FBB43C3EF2A5F669098C7A4A8E2EE4E98FF744ED750861A459956)
 
----
-
-### Oracle Cloud Infrastructure 2025 Certified Foundations Associate
-
-**Issued by:** Oracle    
-**Valid Through:** June 24, 2027    
-
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**   
+*Issued by: Oracle* (Valid Through: June 24, 2027)        
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A33B2165CD9DB3414BE3F04C3A5654397A5347BCB5302119787C814645C43973)
 
----
-
-### Oracle Data Platform 2025 Certified Foundations Associate
-
-**Issued by:** Oracle   
-**Valid Through:** June 26, 2027   
-
+- **Oracle Data Platform 2025 Certified Foundations Associate**  
+*Issued by: Oracle* (Valid Through: June 26, 2027)       
 [✅ Verify Credential](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7BF78BDFEE993811D2C3B3DCD34B944BF00F3F937028E918A7DCE5E051365B44)
 
----
-
-### Oracle Fusion AI Agent Studio Foundations Associate - Rel 1
-
-**Issued by:** Oracle    
-**Issued Date:** June 29, 2025   
-
+- **Oracle Fusion AI Agent Studio Foundations Associate - Rel 1**   
+*Issued by: Oracle* (Issued: June 29, 2025)       
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7)
 
 ---
