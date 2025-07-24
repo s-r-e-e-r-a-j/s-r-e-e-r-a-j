@@ -89,72 +89,33 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 ## 📜 Certifications
 
-### Fortinet Certified Fundamentals (FCF) in Cybersecurity  
+- **Fortinet Certified Fundamentals (FCF) in Cybersecurity**  
+*Issued by:* Fortinet (Valid Through: April 30, 2027) 
+[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS) | [📄 View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
 
-**Issued by:** Fortinet  
-**Valid Through:** April 30, 2027     
+- **Fortinet Certified Associate (FCA) in Cybersecurity**  
+*Issued by: Fortinet* (Valid Through: May 1, 2027)    
+[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS) | [📄 View Certificate](https://github.com/user-attachments/assets/3dddfbd9-67a9-446f-811c-8f7aefb15d7c)
 
-[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS)
-
-[📄 View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
-
----
-
-### Fortinet Certified Associate (FCA) in Cybersecurity  
-
-**Issued by:** Fortinet  
-**Valid Through:** May 1, 2027    
-
-[✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=9841063462SS)
-
-[📄 View Certificate](https://github.com/user-attachments/assets/3dddfbd9-67a9-446f-811c-8f7aefb15d7c)
-
----
-
-### Introduction to Critical Infrastructure Protection (ICIP)
-
-**Issued by:** OPSWAT  
-**Valid Through:** June 3, 2026   
-
+- **Introduction to Critical Infrastructure Protection (ICIP)**
+*Issued by: OPSWAT* (Valid Through: June 3, 2026)   
 [📄 View Certificate](https://github.com/user-attachments/assets/6add3100-7304-42ff-b315-4a4a8236c448)
 
----
-
-### Neo4j Certified Professional
-
-**Issued by:** Neo4j  
-**Issued Date:** June 3, 2025    
-
+- **Neo4j Certified Professional**
+*Issued by: Neo4j* (Issued: June 3, 2025)    
 [✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
 
----
-
-### MySQL Implementation Certified Associate
-
-**Issued by:** Oracle   
-**Issued Date:** July 1, 2025  
-
+- **MySQL Implementation Certified Associate**
+*Issued by: Oracle* (Issued: July 1, 2025)  
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
 
----
-
-### MySQL HeatWave Implementation Certified Associate Rel 1
-
-**Issued by:** Oracle  
-**Issued Date:** July 18, 2025   
-
+- **MySQL HeatWave Implementation Certified Associate Rel 1**
+*Issued by: Oracle* (Issued: July 18, 2025)   
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
 
----
-
-### Oracle APEX Cloud Certified Developer Professional
-
-**Issued by:** Oracle   
-**Issued Date:** July 7, 2025    
-
+- **Oracle APEX Cloud Certified Developer Professional**
+*Issued by: Oracle* (Issued: July 7, 2025)    
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
-
----
 
 ### Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
