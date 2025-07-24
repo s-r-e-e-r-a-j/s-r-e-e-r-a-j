@@ -90,7 +90,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ## 📜 Certifications
 
 - **Fortinet Certified Fundamentals (FCF) in Cybersecurity**     
-*Issued by:* Fortinet (Valid Through: April 30, 2027) 
+*Issued by: Fortinet* (Valid Through: April 30, 2027)     
 [✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS) | [📄 View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
 
 - **Fortinet Certified Associate (FCA) in Cybersecurity**     
