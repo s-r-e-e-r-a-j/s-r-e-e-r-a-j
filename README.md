@@ -134,7 +134,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 *Issued by: Oracle* (Issued: June 29, 2025)       
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=35DACE9493F1507E27BD8D3AAE89F14F186EADFD557D2DE6D5BEB441EF5066E7)
 
-- **Multicloud Network Associate**       
+- **Aviatrix Certified Engineer – Multicloud Network Associate (ACE Associate)**       
 *Issued by: Aviatrix* (Valid Through: September 6, 2028)  
 [✅ Verify Credential](https://www.credly.com/badges/76dcceb8-a891-4ea8-bb37-9a92fd3218bd/public_url)
 
