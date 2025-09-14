@@ -253,6 +253,10 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <img src="https://img.shields.io/badge/NEO4J%20DATABASE%20MANAGEMENT-009C8C?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Database Management Badge">
 
+<img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
+
+<img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
+
 
 </p>
 
