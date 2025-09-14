@@ -244,6 +244,10 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
   
   <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge">
+
+<img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
+
+<img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
   
   <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
 
@@ -252,11 +256,6 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 
 <img src="https://img.shields.io/badge/NEO4J%20DATABASE%20MANAGEMENT-009C8C?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Database Management Badge">
-
-<img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
-
-<img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
-
 
 </p>
 
