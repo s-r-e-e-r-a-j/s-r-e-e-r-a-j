@@ -93,6 +93,22 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 ## 📜 Certifications
 
+### High-Value Proctored Certifications
+
+- **MySQL Implementation Certified Associate**   
+*Issued by: Oracle* (Issued: July 1, 2025)  
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
+
+- **MySQL HeatWave Implementation Certified Associate Rel 1**   
+*Issued by: Oracle* (Issued: July 18, 2025)   
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
+
+- **Oracle APEX Cloud Certified Developer Professional**   
+*Issued by: Oracle* (Issued: July 7, 2025)    
+[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
+
+### Free or Learning Certifications
+
 - **Fortinet Certified Fundamentals (FCF) in Cybersecurity**     
 *Issued by: Fortinet* (Valid Through: April 30, 2027)     
 [✅ Verify Credential](https://training.fortinet.com/admin/tool/certificate/index.php?code=1189567582SS) | [📄 View Certificate](https://github.com/user-attachments/assets/e1032877-50b8-4f60-bd33-fd20ce1e7d45)
@@ -108,18 +124,6 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 - **Neo4j Certified Professional**    
 *Issued by: Neo4j* (Issued: June 3, 2025)    
 [✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
-
-- **MySQL Implementation Certified Associate**   
-*Issued by: Oracle* (Issued: July 1, 2025)  
-[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0452747020D3E8E5EF372153076D988CC1BE831F58E2014F1C25435AD0B77F7F)
-
-- **MySQL HeatWave Implementation Certified Associate Rel 1**   
-*Issued by: Oracle* (Issued: July 18, 2025)   
-[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E8C1BA5F2D5E2A3541551B0674F43F96BD6B4E966EC62411D841E8AAA95FC1B)
-
-- **Oracle APEX Cloud Certified Developer Professional**   
-*Issued by: Oracle* (Issued: July 7, 2025)    
-[✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**   
 *Issued by: Oracle* (Valid Through: June 23, 2027)       
