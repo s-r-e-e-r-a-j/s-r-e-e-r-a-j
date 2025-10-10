@@ -10,7 +10,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ## 🚀 About Me
 
 
-- ✨ I am passionate about **programming**. My favourite programming languages are **JavaScript** **Python**, and **C**, but I also have experience with **other languages** and am always eager to explore new technologies and expand my skills.
+- ✨ I am passionate about **programming**. My favourite programming languages are **JavaScript**, **Python**, and **C**, but I also have experience with **other languages** and am always eager to explore new technologies and expand my skills.
 
 - 🌟 I enjoy creating innovative projects in **programming**, **web development**, and **ethical hacking**.  
 
