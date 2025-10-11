@@ -123,7 +123,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 - **Neo4j Certified Professional**    
 *Issued by: Neo4j* (Issued: June 3, 2025)    
-[✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)
+[✅ Verify Credential](https://graphacademy.neo4j.com/c/33ae928c-6851-4e9d-a78b-704d4d84cea0/)*(Intermediate / practical graph database skills, non-proctored)*
 
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**   
 *Issued by: Oracle* (Valid Through: June 23, 2027)       
