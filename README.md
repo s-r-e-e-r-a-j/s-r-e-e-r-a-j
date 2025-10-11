@@ -107,7 +107,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 *Issued by: Oracle* (Issued: July 7, 2025)    
 [✅ Verify Credential](https://catalog-education.oracle.com/ords/certview/sharebadge?id=08B11A9F53E9F12F378190EB4558F4A6E9D72419D6FD9552702B3D8FC13DF100)
 
-### Learning & Foundational Certifications
+### Foundational & Skills Certifications
 
 - **Fortinet Certified Fundamentals (FCF) in Cybersecurity**     
 *Issued by: Fortinet* (Valid Through: April 30, 2027)     
