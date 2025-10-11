@@ -93,7 +93,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 ## 📜 Certifications
 
-### Industry-Recognized Certifications
+### Industry-Recognized Proctored Certifications
 
 - **MySQL Implementation Certified Associate**   
 *Issued by: Oracle* (Issued: July 1, 2025)  
