@@ -223,14 +223,9 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <p>
 
-<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development Badge">
+<img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Full Stack Web Development Badge">
   <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
-
-
-<img src="https://img.shields.io/badge/HTML%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Development Badge">
-  <img src="https://img.shields.io/badge/CSS%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Development Badge">
-  
-  
+ 
 <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
 
   <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
