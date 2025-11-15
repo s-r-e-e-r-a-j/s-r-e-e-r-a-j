@@ -27,6 +27,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 - 💻 Comfortable with **Linux-based systems** for **development**, **automation**, and **ethical hacking**, with practical skills in terminal use and scripting.
   
 - ⚙️ I am passionate about **NVIDIA GPU programming** with **CUDA**, leveraging parallel computing to optimize performance and accelerate complex tasks.
+
+- 🌐 I have experience working with **full-stack technologies** such as **HTML5**, **CSS3**, **JavaScript**, **Node.js**, **Express.js**, and databases like **MySQL** and **PostgreSQL**.
   
 - 🤝 I am open to collaborating on projects related to **programming**, **full-stack web development**, and **ethical hacking**.
 
