@@ -14,7 +14,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 - 🌟 I enjoy creating innovative projects in **programming**, **full-stack web development**, and **ethical hacking**.  
 
-- 🚀 I am constantly developing and improving my skills in **programming**, **ethical hacking**, and **web development**.  
+- 🚀 I am constantly developing and improving my skills in **programming**, **ethical hacking**, and **full-stack web development**.  
 
 - 🔧 I have intermediate-level skills in Bash scripting to automate tasks and create tools for ethical hacking and security testing.
 
