@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate low-level and high-level programmer** with experience in JavaScript, Python, C, and several other languages. I’m always excited to learn new technologies and try new things. My interests span **web development**, **ethical hacking**, and **embedded systems**.
+I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate low-level and high-level programmer** with experience in JavaScript, Python, C, and several other languages. I’m always excited to learn new technologies and try new things. My interests span **full-stack web development**, **ethical hacking**, and **embedded systems**.
 
 <p align="center"><img alt="Coding" width="400" src="https://github.com/user-attachments/assets/9dd23ea1-97bd-45d2-b16d-1a07bc58c7ec"></p>
 
@@ -12,7 +12,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 - ✨ I am passionate about **programming**. My favourite programming languages are **JavaScript**, **Python**, and **C**, but I also have experience with **other languages** and am always eager to explore new technologies and expand my skills.
 
-- 🌟 I enjoy creating innovative projects in **programming**, **web development**, and **ethical hacking**.  
+- 🌟 I enjoy creating innovative projects in **programming**, **full-stack web development**, and **ethical hacking**.  
 
 - 🚀 I am constantly developing and improving my skills in **programming**, **ethical hacking**, and **web development**.  
 
@@ -28,7 +28,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   
 - ⚙️ I am passionate about **NVIDIA GPU programming** with **CUDA**, leveraging parallel computing to optimize performance and accelerate complex tasks.
   
-- 🤝 I am open to collaborating on projects related to **programming**, **web development**, and **ethical hacking**.
+- 🤝 I am open to collaborating on projects related to **programming**, **full-stack web development**, and **ethical hacking**.
 
 
 ---
