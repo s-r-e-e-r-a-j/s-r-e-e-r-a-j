@@ -147,8 +147,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 *Issued by: Aviatrix* (Valid Through: September 6, 2028)  
 [✅ Verify Credential](https://www.credly.com/badges/76dcceb8-a891-4ea8-bb37-9a92fd3218bd/public_url)
 
-- **Certified Cybersecurity Educator Professional (CCEP)**
-  *Issued by: Red Team Leaders* (Issued: November 23, 2025)
+- **Certified Cybersecurity Educator Professional (CCEP)** 
+  *Issued by: Red Team Leaders* (Issued: November 23, 2025)  
 [✅ Verify Credential](https://courses.redteamleaders.com/exam-completion/78cfb647ce7ea3c5)
 ---
 
