@@ -25,6 +25,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 - ⚡ Familiar with **Arduino and ESP32 programming**, with a growing interest in **embedded systems and IoT development**
 
 - 💻 Comfortable with **Linux-based systems** for **development**, **automation**, and **ethical hacking**, with practical skills in terminal use and scripting.
+
+- 🖥️ Skilled in **Linux kernel driver** and **loadable kernel module (LKM) development**.
   
 - ⚙️ I am passionate about **NVIDIA GPU programming** with **CUDA**, leveraging parallel computing to optimize performance and accelerate complex tasks.
 
