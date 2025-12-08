@@ -20,7 +20,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 - 🛡️ Focused on ethical hacking—exploring exploitation techniques, real-world attack scenarios, and penetration testing to strengthen offensive security skills. I am also actively learning **Red Teaming**, including adversary simulation, stealth operations, and advanced offensive tactics.
   
-- 🔍 Interested in creating ethical hacking tools and resources for controlled and responsible use.
+- 🔍 Skilled in creating ethical hacking tools and resources for controlled and responsible use.
 
 - ⚡ Familiar with **Arduino and ESP32 programming**, with a growing interest in **embedded systems and IoT development**
 
