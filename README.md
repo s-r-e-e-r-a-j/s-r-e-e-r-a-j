@@ -55,7 +55,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge">
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
 
-<img src="https://img.shields.io/badge/x64-Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x64-Assembly-Badge">
+  <img src="https://img.shields.io/badge/x64-Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x64-Assembly-Badge">
 
 </p>
 
@@ -255,6 +255,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge">
 
 <img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
+
+<img src="https://img.shields.io/badge/x64-Assembly%20Programming-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x64 Assembly Programming Badge">
 
 <img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
   
