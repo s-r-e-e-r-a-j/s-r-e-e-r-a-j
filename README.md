@@ -26,6 +26,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 - 💻 Comfortable with **Linux-based systems** for **development**, **automation**, and **ethical hacking**, with practical skills in terminal use and scripting.
 
+- 🧠 Skilled in **Linux x86-64 Assembly Programming** (NASM) -- Good working knowledge of the **AMD64 System V ABI**
+
 - 🖥️ Skilled in **Linux kernel driver** and **loadable kernel module (LKM) development**.
   
 - ⚙️ I am passionate about **NVIDIA GPU programming** with **CUDA**, leveraging parallel computing to optimize performance and accelerate complex tasks.
