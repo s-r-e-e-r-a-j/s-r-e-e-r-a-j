@@ -65,13 +65,13 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 
 
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
+  <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
 
 
-<img src="https://img.shields.io/badge/NEO4J-008cc1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge">
+  <img src="https://img.shields.io/badge/NEO4J-008cc1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Badge">
 
 </p>
 
@@ -173,68 +173,64 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <p align="center">
 
-<a href="https://www.credly.com/badges/17227ac4-a1b6-4f13-bbca-91243b38d5ef/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/17227ac4-a1b6-4f13-bbca-91243b38d5ef/public_url">
+    <img width="200" height="200" src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/ac10a455-0da1-46b1-8fbf-e646a6f29c27/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/d2c0eff9-0c44-4690-92ea-db0f9af19fbb" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/ac10a455-0da1-46b1-8fbf-e646a6f29c27/public_url">
+    <img width="200" height="200" src="https://github.com/user-attachments/assets/d2c0eff9-0c44-4690-92ea-db0f9af19fbb" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/932a0578-0f9c-4d96-8ab3-05f0b20f7e9d/public_url">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/b688758e-a6cf-462e-bcb6-ec4ec5422a52" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/932a0578-0f9c-4d96-8ab3-05f0b20f7e9d/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/b688758e-a6cf-462e-bcb6-ec4ec5422a52" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/35c6e908-652d-4d0a-a0a9-37af533a5c3e/public_url">
-   <img width="200" height="200" src="https://github.com/user-attachments/assets/6e4d37b8-5086-4405-9dc0-4703ecab6627" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/35c6e908-652d-4d0a-a0a9-37af533a5c3e/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/6e4d37b8-5086-4405-9dc0-4703ecab6627" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/7ec4fbd2-a56e-4eb1-9b74-7774bdd52579/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/e03aa3c9-bc82-4d75-9e3d-e9878d98fe0b" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/180f652f-3f80-4025-992c-f30df8c1e1d1/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/9d78a510-05b0-47cb-90ac-aad4d69d3b97" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/180f652f-3f80-4025-992c-f30df8c1e1d1/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/9d78a510-05b0-47cb-90ac-aad4d69d3b97" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/e067736b-9dab-4f7a-af37-2be61a67b626/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/19bb03a2-6c00-4d51-a29c-53295d08e283" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/e067736b-9dab-4f7a-af37-2be61a67b626/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/19bb03a2-6c00-4d51-a29c-53295d08e283" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/09ce6e63-a5c8-4cf9-8835-165a6d595d9f/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/7b0518bf-9a9c-436d-9c43-e597827680ea" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/09ce6e63-a5c8-4cf9-8835-165a6d595d9f/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/7b0518bf-9a9c-436d-9c43-e597827680ea" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/390dcbec-80a4-495f-a1cb-d455404828ce/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/7be14df7-8b88-4954-b5ca-a840cca4c678" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/390dcbec-80a4-495f-a1cb-d455404828ce/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/7be14df7-8b88-4954-b5ca-a840cca4c678" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/f87e7a0c-2761-4eb7-a323-b0410e14bf87/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/fe936669-116a-403b-8635-453892146c7a" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/f87e7a0c-2761-4eb7-a323-b0410e14bf87/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/fe936669-116a-403b-8635-453892146c7a" alt="Cisco Badge">
+  </a>
 
-<a href="https://www.credly.com/badges/19f05eb8-555c-4481-a6b9-52e661bd9d3b/public_url">
-<img width="200" height="200" src="https://github.com/user-attachments/assets/1697eeaf-fc65-4708-976c-f29f019a72ce" alt="Cisco Badge">
-</a>
+  <a href="https://www.credly.com/badges/19f05eb8-555c-4481-a6b9-52e661bd9d3b/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/1697eeaf-fc65-4708-976c-f29f019a72ce" alt="Cisco Badge">
+  </a>
 
   <a href="https://www.credly.com/badges/06c8a568-55dd-45b2-99e5-3686917ac96e/public_url">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/cd27b52f-165b-4bb0-852a-e23785026848" alt="Cisco Badge">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/cd27b52f-165b-4bb0-852a-e23785026848" alt="Cisco Badge">
   </a>
   
   <a href="https://www.credly.com/badges/db375342-0581-4e01-a58c-d3904e502b22/public_url">
-  <img width="200" height="200" src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/3c365c8b-6b74-478c-883c-d149fc244f47" alt="Cisco Badge">
   </a>
 
-<a href="https://www.credly.com/badges/2c6e74f5-e8d6-4503-8030-bc23c2bf6949/public_url">
+  <a href="https://www.credly.com/badges/2c6e74f5-e8d6-4503-8030-bc23c2bf6949/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/88ff9be3-9468-41d2-8fe9-184d972b707a" alt="Cisco Badge">
+  </a>
 
-<img width="200" height="200" src="https://github.com/user-attachments/assets/88ff9be3-9468-41d2-8fe9-184d972b707a" alt="Cisco Badge">
-
-</a>
-
-<a href="https://www.credly.com/badges/47c9b381-0110-4094-8df1-b7b21846479a/public_url">
-
-<img width="200" height="200" src="https://github.com/user-attachments/assets/0ed19f97-7685-413a-a25e-b7a0ba065233" alt="Cisco Badge">
-
+  <a href="https://www.credly.com/badges/47c9b381-0110-4094-8df1-b7b21846479a/public_url">
+     <img width="200" height="200" src="https://github.com/user-attachments/assets/0ed19f97-7685-413a-a25e-b7a0ba065233" alt="Cisco Badge">
   </a>
 
 </p>
@@ -245,40 +241,40 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <p>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Full Stack Web Development Badge">
-  <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
+   <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Full Stack Web Development Badge">
+   <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
  
-<img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
+   <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
 
-  <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
+   <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
   
-  <img src="https://img.shields.io/badge/Ruby%20Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Programming Badge">
+   <img src="https://img.shields.io/badge/Ruby%20Programming-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Programming Badge">
   
-  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge">
+   <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting Badge">
   
-  <img src="https://img.shields.io/badge/C++%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Badge">
+   <img src="https://img.shields.io/badge/C++%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Badge">
   
-  <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
+   <img src="https://img.shields.io/badge/C%23%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Programming Badge">
   
-  <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
+   <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Badge">
   
-  <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
+   <img src="https://img.shields.io/badge/PHP%20Programming-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Programming Badge">
   
-  <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge">
+   <img src="https://img.shields.io/badge/Go%20Programming-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Programming Badge">
 
-<img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
+   <img src="https://img.shields.io/badge/RUST%20PROGRAMMING-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Badge">
 
-<img src="https://img.shields.io/badge/x64-Assembly%20Programming-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x64 Assembly Programming Badge">
+   <img src="https://img.shields.io/badge/x64-Assembly%20Programming-black?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="x64 Assembly Programming Badge">
 
-<img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
+   <img src="https://img.shields.io/badge/NVIDIA%20GPU%20PROGRAMMING%20WITH%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Programming with CUDA Badge">
   
-  <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
-
-
-<img src="https://img.shields.io/badge/POSTGRESQL%20DATABASE%20MANAGEMENT-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database Management Badge">
+   <img src="https://img.shields.io/badge/MySQL%20Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Database Management Badge">
 
 
-<img src="https://img.shields.io/badge/NEO4J%20DATABASE%20MANAGEMENT-009C8C?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Database Management Badge">
+   <img src="https://img.shields.io/badge/POSTGRESQL%20DATABASE%20MANAGEMENT-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database Management Badge">
+
+
+   <img src="https://img.shields.io/badge/NEO4J%20DATABASE%20MANAGEMENT-009C8C?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Database Management Badge">
 
 </p>
 
@@ -318,10 +314,10 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ## 📫 How to Reach Me
 
 <p align="center">
-<a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/sreeraj-s-kurup"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="mailto: sreekuttan2156239@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">  </a> 
+  <a href="https://instagram.com/s_r_e_e_r_a__j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/sreeraj-s-kurup"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
