@@ -158,6 +158,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ---
 
 ## 🏆 Achievements and Badges
+<p align="center"><sub>Click on a badge to view details</sub></p>
 
 <table align="center">
   <tr>
