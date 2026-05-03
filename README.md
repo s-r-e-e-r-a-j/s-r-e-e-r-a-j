@@ -255,7 +255,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ---
 
 <h3 align="center">🏆 Github Trophy 🏆</h3>
-<p align="center"><img src="https://github-profile-trophy-one-tawny.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j"></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=s-r-e-e-r-a-j" alt="s-r-e-e-r-a-j"></p>
 
 ---
 
