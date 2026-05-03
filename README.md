@@ -161,7 +161,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 <p align="center">
   <a href="https://www.credly.com/badges/17227ac4-a1b6-4f13-bbca-91243b38d5ef/public_url">      
-   <img width="200" height="200" src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" style="display:inline-block; margin:15px;" alt="Cisco Badge">
+   <img width="200" height="200" src="https://github.com/user-attachments/assets/728fa742-ebfb-4de3-869a-05b5fc607c37" alt="Cisco Badge">
   </a>  
   <a href="https://www.credly.com/badges/ac10a455-0da1-46b1-8fbf-e646a6f29c27/public_url">
    <img width="200" height="200" src="https://github.com/user-attachments/assets/d2c0eff9-0c44-4690-92ea-db0f9af19fbb" alt="Cisco Badge">
