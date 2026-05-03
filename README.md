@@ -243,7 +243,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 ### 📈Contribution Graph
 ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=s-r-e-e-r-a-j&theme=radical)</br>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=s-r-e-e-r-a-j&limit=5&theme=radical&combine_all_yearly_contributions=true)</br>
+![](https://github-repository-contribution-stats-psi.vercel.app/api?username=s-r-e-e-r-a-j&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)</br>
 
 ---
 
