@@ -270,3 +270,8 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
 
 ---
 
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@s-r-e-e-r-a-j?theme=gelbooru">
+</p>
