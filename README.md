@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate low-level and high-level programmer** with experience in JavaScript, Python, C, and several other languages. I’m always excited to learn new technologies and try new things. My interests span **full-stack web development**, **ethical hacking**, and **embedded systems**.
+I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate open-source low-level and high-level developer** with experience in JavaScript, Python, C, and several other languages. I’m always excited to learn new technologies and try new things. My interests span **full-stack web development**, **ethical hacking**, and **embedded systems**.
 
 <p align="center"><img alt="Coding" width="400" src="https://github.com/user-attachments/assets/9dd23ea1-97bd-45d2-b16d-1a07bc58c7ec"></p>
 
