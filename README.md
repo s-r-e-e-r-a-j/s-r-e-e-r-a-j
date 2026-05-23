@@ -22,7 +22,7 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   
 - 🔍 Skilled in creating ethical hacking tools and resources for controlled and responsible use.
 
-- ⚡ Familiar with **Arduino and ESP32 programming**, with a growing interest in **embedded systems and IoT development**
+- ⚡ Hands-on experience with **Arduino** and **ESP32 programming**, with a growing interest in **embedded systems** and **IoT development**.
 
 - 💻 Hands-on experience with Linux-based systems for **development, automation, and ethical hacking**, with **strong command-line and scripting skills**.
 
