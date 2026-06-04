@@ -156,9 +156,9 @@ I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professiona
   *Issued by: Red Team Leaders* (Issued: November 23, 2025)  
 [✅ Verify Credential](https://courses.redteamleaders.com/exam-completion/78cfb647ce7ea3c5)
 
-- **Certified LLM Security Professional (CLLMSP)**
+- **Certified LLM Security Professional (CLLMSP)**   
   *Issued by: Red Team Leaders*
-  (Issued: June 4, 2026)
+  (Issued: June 4, 2026)  
   [✅ Verify Credential](https://courses.redteamleaders.com/exam-completion/b52c4c7385315e1a)
   
 ---
