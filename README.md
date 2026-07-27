@@ -33,7 +33,6 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
 
   
 - 🐧 Active **Linux Kernel Contributor**, passionate about open-source low-level development, upstream contributions, and systems engineering.
-- 
 
 - 🧠 Skilled in **Linux x86-64 Assembly Programming (NASM)**, with good working knowledge of the **AMD64 System V ABI**
 
