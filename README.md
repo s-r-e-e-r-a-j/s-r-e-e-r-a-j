@@ -31,6 +31,10 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
 
 - 💻 Hands-on experience with Linux-based systems for **development, automation, and ethical hacking**, with **strong command-line and scripting skills**.
 
+  
+- 🐧 Active **Linux Kernel Contributor**, passionate about open-source low-level development, upstream contributions, and systems engineering.
+- 
+
 - 🧠 Skilled in **Linux x86-64 Assembly Programming (NASM)**, with good working knowledge of the **AMD64 System V ABI**
 
 - 🖥️ Hands-on experience with **Linux kernel driver** and **loadable kernel module (LKM) development**.
