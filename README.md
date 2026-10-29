@@ -222,6 +222,7 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
 
 <p>
    <img src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Full Stack Web Development Badge">
+  <img src="https://img.shields.io/badge/Linux%20Kernel-Contributions%20%26%20Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Kernel Contributions and Development Badge">
    <img src="https://img.shields.io/badge/Ethical%20Hacking-6A5ACD?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Ethical Hacking Badge">
    <img src="https://img.shields.io/badge/JavaScript%20Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Programming Badge">
    <img src="https://img.shields.io/badge/Python%20Programming-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Programming Badge">
