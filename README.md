@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate open-source low-level and high-level developer**—as well as a **Linux kernel  developer and contributor**.
+I’m **Sreeraj S Kurup**, an **aspiring ethical hacker and red team professional**, and a **passionate open-source low-level and high-level developer**—as well as a **Linux Kernel  Developer and Contributor**.
 
 With experience in **JavaScript**, **Python**, **C**, and several other languages, I’m always excited to learn new technologies and try new things. My interests span **full-stack web development**, **ethical hacking**, **embedded systems**, and **Linux kernel architecture**.
 
@@ -32,7 +32,7 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
 - 💻 Hands-on experience with Linux-based systems for **development, automation, and ethical hacking**, with **strong command-line and scripting skills**.
 
   
-- 🐧 Active **Linux Kernel developer and contributor**, passionate about open-source low-level development, upstream contributions, and systems engineering.
+- 🐧 Active **Linux Kernel Developer and Contributor**, passionate about open-source low-level development, upstream contributions, and systems engineering.
 
 - 🧠 Skilled in **Linux x86-64 Assembly Programming (NASM)**, with good working knowledge of the **AMD64 System V ABI**
 
