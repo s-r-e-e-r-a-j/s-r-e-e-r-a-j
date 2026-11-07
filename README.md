@@ -44,6 +44,27 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
   
 - 🤝 I am open to collaborating on projects related to **programming**, **full-stack web development**, and **ethical hacking**.
 
+---
+
+## 🐧 Linux Kernel Development & Upstream Contributions
+
+Active Linux Kernel Developer and Contributor, with accepted patches across multiple kernel subsystems.
+
+### 🔧 Accepted Kernel Patches
+
+**FireWire Subsystem**
+- [firewire: core: validate overall descriptor length in fw_core_add_descriptor()](https://github.com/torvalds/linux/commit/e8e659f79178c3c30bbfbfac7a310a2a27c9694b)
+- [firewire: core: validate sub-block lengths in fw_core_add_descriptor()](https://github.com/torvalds/linux/commit/a5367912ba81dfb3180fce89b545b009e57f17a5)
+- [firewire: cdev: Check return value in ioctl_get_cycle_timer()](https://git.kernel.org/pub/scm/linux/kernel/git/ieee1394/linux1394.git/commit/?h=for-next&id=3110316fb834e17670ba2690ee75fb05d92b3ef1)
+
+**PCI Subsystem**
+- [PCI: mediatek-gen3: Fix 64-bit type truncation in mtk_pcie_set_trans_table()](https://github.com/torvalds/linux/commit/13335fca4c23b1a6736ec9c7efc3750154a2ca24)
+- [PCI: mediatek: Fix integer truncation and handle oversized resources](https://git.kernel.org/pub/scm/linux/kernel/git/pci/pci.git/commit/?h=controller/mediatek)
+
+**Sound Subsystem (ALSA – Advanced Linux Sound Architecture)**
+- [ALSA: control: Clear user-provided numid before adding a control](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1b5e85fd6cd25825c39e4385df7fb55f64b4520f)
+- [ALSA: pcm: Fix source frame count calculation](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=553e8de72bf9f4c9da15d8f17db8044807fb0409)
+- [ALSA: core: Validate device type for dynamic minors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=3461b38f7c4c0cbed4d797756d5dd7068e622507)
 
 ---
 
