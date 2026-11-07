@@ -66,6 +66,9 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: pcm: Fix source frame count calculation](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=553e8de72bf9f4c9da15d8f17db8044807fb0409)
 - [ALSA: core: Validate device type for dynamic minors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=3461b38f7c4c0cbed4d797756d5dd7068e622507)
 
+**NVMe Subsystem**
+- [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
+
 ---
 
 ## 💼 Skills
