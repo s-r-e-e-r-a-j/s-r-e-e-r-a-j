@@ -48,7 +48,7 @@ With experience in **JavaScript**, **Python**, **C**, and several other language
 
 ## 🐧 Linux Kernel Development & Upstream Contributions
 
-Active Linux Kernel Developer and Contributor, with accepted patches across multiple kernel subsystems.
+Active Linux Kernel Developer and Contributor, with patches accepted into mainline and subsystem maintainer trees across multiple kernel subsystems.
 
 ### 🔧 Accepted Kernel Patches
 
