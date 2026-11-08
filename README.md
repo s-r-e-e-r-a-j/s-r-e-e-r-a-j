@@ -66,6 +66,8 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: control: Clear user-provided numid before adding a control](https://github.com/torvalds/linux/commit/1b5e85fd6cd25825c39e4385df7fb55f64b4520f)
 - [ALSA: pcm: Fix source frame count calculation](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=553e8de72bf9f4c9da15d8f17db8044807fb0409)
 - [ALSA: core: Validate device type for dynamic minors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=3461b38f7c4c0cbed4d797756d5dd7068e622507)
+- [ALSA: control: Trim whitespace from sysfs input](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=9626eb83c6f0f6813a5a56944a9eccd800041cc1)
+- [ALSA: control: Synchronize LED mode accesses](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=988eb45d29808f9d9c1b3ea41019d15e75203840)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
