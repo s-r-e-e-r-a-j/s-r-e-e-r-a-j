@@ -60,9 +60,10 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 **PCI Subsystem**
 - [PCI: mediatek-gen3: Fix 64-bit type truncation in mtk_pcie_set_trans_table()](https://github.com/torvalds/linux/commit/13335fca4c23b1a6736ec9c7efc3750154a2ca24)
 - [PCI: mediatek: Fix integer truncation and handle oversized resources](https://git.kernel.org/pub/scm/linux/kernel/git/pci/pci.git/commit/?h=controller/mediatek)
+- [PCI: mt7621: Fix reset control leak on PHY initialization failure](https://git.kernel.org/pub/scm/linux/kernel/git/pci/pci.git/commit/?h=controller/mt7621)
 
 **Sound Subsystem (ALSA – Advanced Linux Sound Architecture)**
-- [ALSA: control: Clear user-provided numid before adding a control](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1b5e85fd6cd25825c39e4385df7fb55f64b4520f)
+- [ALSA: control: Clear user-provided numid before adding a control](https://github.com/torvalds/linux/commit/1b5e85fd6cd25825c39e4385df7fb55f64b4520f)
 - [ALSA: pcm: Fix source frame count calculation](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=553e8de72bf9f4c9da15d8f17db8044807fb0409)
 - [ALSA: core: Validate device type for dynamic minors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=3461b38f7c4c0cbed4d797756d5dd7068e622507)
 
