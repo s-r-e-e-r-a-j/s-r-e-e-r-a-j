@@ -69,6 +69,7 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: control: Trim whitespace from sysfs input](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=9626eb83c6f0f6813a5a56944a9eccd800041cc1)
 - [ALSA: control: Synchronize LED mode accesses](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=988eb45d29808f9d9c1b3ea41019d15e75203840)
 - [ALSA: control: Fix parsing of numeric fields](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=ad40aa59a6ca9bf343346191f069f1153bb06aa3)
+- [ALSA: control: Validate element info in compat ioctl](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=291d8707fa439ed4ec72552e7770177f6b6514e4)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
