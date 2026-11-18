@@ -76,6 +76,9 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
+- [nvmet: reject invalid write-protect feature values](https://git.kernel.org/pub/scm/linux/kernel/git/axboe/linux.git/commit/?h=block-7.4&id=21f0f264962358f3af6e08805b21d32abdd0e35f)
+- [nvmet: synchronize DH-CHAP secret removal](https://git.kernel.org/pub/scm/linux/kernel/git/axboe/linux.git/commit/?h=block-7.4&id=706076f51eb78ebb4cc7fb06751bf09042fb515c)
+- [nvmet: clean up DH group state on initialization failure](https://git.kernel.org/pub/scm/linux/kernel/git/axboe/linux.git/commit/?h=block-7.4&id=920cd269c9228c5f51a8bbd65575010890797afa)
 
 ---
 
