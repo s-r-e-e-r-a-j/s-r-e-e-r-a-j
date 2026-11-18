@@ -72,6 +72,7 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: control: Validate element info in compat ioctl](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=291d8707fa439ed4ec72552e7770177f6b6514e4)
 - [ALSA: compress: Set metadata_set only after successful callback](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=8794e2454799701bfe658de5bf16936275d68468)
 - [ALSA: jack: Fix jack control cleanup on error paths](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next)
+- [ALSA: core: Validate card indices in lookup helpers](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next&id=aca97aad5379bc96d0493eec8ad88c79b12a113f)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
