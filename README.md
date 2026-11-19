@@ -83,6 +83,9 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [nvmet: synchronize DH-CHAP secret removal](https://git.kernel.org/pub/scm/linux/kernel/git/axboe/linux.git/commit/?h=block-7.4&id=706076f51eb78ebb4cc7fb06751bf09042fb515c)
 - [nvmet: clean up DH group state on initialization failure](https://git.kernel.org/pub/scm/linux/kernel/git/axboe/linux.git/commit/?h=block-7.4&id=920cd269c9228c5f51a8bbd65575010890797afa)
 
+**PHY Subsystem**
+- [phy: mediatek: mt8195: Check PLL driver setting return value](https://git.kernel.org/pub/scm/linux/kernel/git/phy/linux-phy.git/commit/?h=next&id=5597a97e4842f3c67689093e9bf1215902babf08)
+
 ---
 
 ## 💼 Skills
