@@ -73,6 +73,9 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: compress: Set metadata_set only after successful callback](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=8794e2454799701bfe658de5bf16936275d68468)
 - [ALSA: jack: Fix jack control cleanup on error paths](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next)
 - [ALSA: core: Validate card indices in lookup helpers](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next&id=aca97aad5379bc96d0493eec8ad88c79b12a113f)
+- [ALSA: compress: Fix task resource leak on copy_to_user() failure](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1afd6b7547b2ff0824e91fdf269bbd089f767a5d)
+- [ALSA: dmaengine: Check DMA submission errors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1fc16c287296c81340a0060ab1ab5814fc61195a)
+- [ALSA: memalloc: Fix DMA allocation retry cleanup](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=9a4a81718b057eb8768ea87aceacafdfaf3a8b38)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
