@@ -71,7 +71,7 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: control: Fix parsing of numeric fields](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=ad40aa59a6ca9bf343346191f069f1153bb06aa3)
 - [ALSA: control: Validate element info in compat ioctl](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=291d8707fa439ed4ec72552e7770177f6b6514e4)
 - [ALSA: compress: Set metadata_set only after successful callback](https://github.com/torvalds/linux/commit/8794e2454799701bfe658de5bf16936275d68468)
-- [ALSA: jack: Fix jack control cleanup on error paths](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next)
+- [ALSA: jack: Fix jack control cleanup on error paths](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=ebce20196346906cfa33a84a021ce8f9bd91880c)
 - [ALSA: core: Validate card indices in lookup helpers](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?h=for-next&id=aca97aad5379bc96d0493eec8ad88c79b12a113f)
 - [ALSA: compress: Fix task resource leak on copy_to_user() failure](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1afd6b7547b2ff0824e91fdf269bbd089f767a5d)
 - [ALSA: dmaengine: Check DMA submission errors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=1fc16c287296c81340a0060ab1ab5814fc61195a)
