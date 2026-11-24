@@ -78,6 +78,7 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: memalloc: Fix DMA allocation retry cleanup](https://github.com/torvalds/linux/commit/9a4a81718b057eb8768ea87aceacafdfaf3a8b38)
 - [ALSA: pcm: Fix incorrect numerator selection in snd_interval_ratden()](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=ba3540a88e5a76065aa428b74ea0fd5364558440)
 - [ALSA: pcm: Avoid reading beyond ELD monitor name](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=0dfd513a15573ffa21710f77c2926c3cbb81a7ed)
+- [sound: core: Check return value of device_create()](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=fa1658c34d1b874930d548510469f57419ceb631)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
