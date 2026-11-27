@@ -80,6 +80,9 @@ Active Linux Kernel Developer and Contributor, with patches accepted into mainli
 - [ALSA: pcm: Avoid reading beyond ELD monitor name](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=0dfd513a15573ffa21710f77c2926c3cbb81a7ed)
 - [sound: core: Check return value of device_create()](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=fa1658c34d1b874930d548510469f57419ceb631)
 - [ALSA: core: Reject zero major number](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=4dc6b4cd17c2040e86aceb26200cc359e8d60b6d)
+- [ALSA: vmaster: Restore follower values on put failure](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=016f2e469760a9a7bb44d70c7a0c0bb732efb1fb)
+- [ALSA: vmaster: Check follower callback errors](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=97f08ceaf5bf34653a30e2270b2a9265e4e5257c)
+- [ALSA: atmel: ac97c: fix reset GPIO error handling](https://git.kernel.org/pub/scm/linux/kernel/git/tiwai/sound.git/commit/?id=e1aff4d4241057636394751508e633a92f1cbbab)
 
 **NVMe Subsystem**
 - [nvmet: use appropriate types for authentication payload lengths](https://github.com/torvalds/linux/commit/5641f1304930c3101a2fb47568d539ec4b1b4462)
